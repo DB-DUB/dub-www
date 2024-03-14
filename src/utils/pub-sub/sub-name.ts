@@ -1,0 +1,19 @@
+export enum SubName {
+  OpenPhantomWithUrl,
+  OpenOkxWithUrl,
+  BindWallet,
+  MergeEqptResult,
+  OpenPrank,
+  Logout,
+  Sync,
+  EquipEgg,
+  MintEgg,
+  OpenEquipmentInfo,
+  CloseEquipmentInfo,
+  OpenMergeEqpt,
+  CloseMergeEqpt,
+  OpenMergeEqptResult,
+  CloseMergeEqptResult,
+  OpenOtherModal,
+  CloseOtherModal
+}
